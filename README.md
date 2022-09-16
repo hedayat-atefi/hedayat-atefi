@@ -1,7 +1,7 @@
 ### Hi, I'm Hedayat 👋
 
 - 🔭 I’m currently working on [Lanjrud Website](https://github.com/ehsanghaffarii/mean-frontend)
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript.
 - JavaScript enthusiast 🙌, Front-end developer 💻 & Blogger.
 
 ## Project:
