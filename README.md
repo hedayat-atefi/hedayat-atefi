@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Typescript.
 - JavaScript enthusiast 🙌, Front-end developer 💻 & Blogger...
 
-## Project:
+<!-- ## Project: -->
 
 <!-- - Goldwin UPVC  -->
 
