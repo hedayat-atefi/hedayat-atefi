@@ -15,3 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedayat-atefi&show_icons=true&theme=radical)
