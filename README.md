@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Myself](#)
 - 🌱 I’m currently learning Typescript.
 - JavaScript enthusiast 🙌, Front-end developer 💻 & Blogger...
-- Happy coding
+- Happy coding...
 
 <!-- ## Project: -->
 
