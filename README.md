@@ -1,6 +1,6 @@
 ### Hi, I'm Hedayat 👋
 
-- 🔭 I’m currently working on [Myself](#)
+- 🔭 I’m currently working on new staff
 - 🌱 I’m currently learning Typescript.
 - JavaScript enthusiast 🙌, Front-end developer 💻 & Blogger...
 - Happy coding...
